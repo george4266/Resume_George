@@ -11,6 +11,7 @@ Credit Card (CC) Fraud Detection:
 • The defender and the adversary are pitted against each other in the 10-round game in order to optimize each of their performances
 
   
+  
 FinTech:
 
 • Re-classify customer credit risk to optimize solicitation rate and lower attrition (Random Forests and KNN models)
