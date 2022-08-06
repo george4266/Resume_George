@@ -1,6 +1,6 @@
 # Resume_George
 
-Credit Card (CC) Fraud Detection:
+### Credit Card (CC) Fraud Detection: ###
 
 • A 10-round iterative adversarial game simulating a GANs model
 
@@ -12,7 +12,7 @@ Credit Card (CC) Fraud Detection:
 
   
   
-FinTech:
+### FinTech: ###
 
 • Re-classify customer credit risk to optimize solicitation rate and lower attrition (Random Forests and KNN models)
 
